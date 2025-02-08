@@ -1,3 +1,4 @@
+![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)
 <h1 align="center" class="title">Hi 👋, I'm SWATADRU PAUL</h1>
 <h3 align="center" class="subtitle">A passionate software developer from India</h3>
 
