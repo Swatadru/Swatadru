@@ -129,7 +129,7 @@
 </h1>
 
 <div align=center>
-    <img src="profile-3d-contrib/profile-night-green.svg" height="500" alt="Profile 3D Contrib">
+    <img src="profile-3d-contrib/profile-night-view.svg" height="500" alt="Profile 3D Contrib">
 </div>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swatadru&show_icons=true&locale=en&layout=compact" alt="swatadru" /></p>
