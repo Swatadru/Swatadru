@@ -1,7 +1,12 @@
 <!-- banner image to be updated -->
 ![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)
+
+<!-- profile views -->
+<p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
+
 <h1 align="center" class="title">Hi 👋, I'm SWATADRU PAUL</h1>
 <h3 align="center" class="subtitle">A passionate Coder from India</h3>
+
 
 <h3 align="center" class="connect-title">🔗 Connect with me 🌏</h3>
 
@@ -16,10 +21,6 @@
 <a href="https://www.leetcode.com/swatadru_paul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swatadrupaul" height="30" width="40" /></a> -->
 </p>
-
-<!-- profile views -->
-<p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
-
 
 <!-- github trophies -->
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
