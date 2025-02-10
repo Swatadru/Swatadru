@@ -35,7 +35,7 @@
 <!-- github stats -->
 <h3 align="center">📈 GitHub Stats 📊</h3>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=swatadru&count_private=true&theme=react&border_radius=10" alt="streak stats">
+  <img width=390 src="https://streak-stats.demolab.com/?user=swatadru&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=368 src="https://github-readme-stats.vercel.app/api?username=swatadru&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
   <br/>
