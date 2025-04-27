@@ -51,7 +51,7 @@
 
 - 🌱 I’m currently learning <span class="highlight">**Java, C, Python, AI-ML, Web & App Development**</span>
 
-- 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://swatadru.github.io/MyPortfolio/](https://swatadru.github.io/MyPortfolio/)</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-two-eta-34.vercel.app/" class="project-link">[https://my-portfolio-two-eta-34.vercel.app/](https://my-portfolio-two-eta-34.vercel.app/)</a>
 
 - 💬 Ask me about **Python**
 
