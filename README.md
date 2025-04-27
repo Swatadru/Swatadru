@@ -57,7 +57,7 @@
 
 - 📫 How to reach me **swatadrupaul@gmail.com**
 
-- 📄 Know about my experiences <a href="https://swatadru.github.io/MyPortfolio/#resume" class="resume-link">[https://swatadru.github.io/MyPortfolio/#resume](https://swatadru.github.io/MyPortfolio/#resume)</a>
+- 📄 Know about my experiences <a href="https://my-portfolio-two-eta-34.vercel.app/#resume" class="resume-link">Click Here</a>
 
 
 <!-- Skills -->
