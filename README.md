@@ -51,13 +51,13 @@
 
 - 🌱 I’m currently learning <span class="highlight">**Java, C, Python, AI-ML, Web & App Development**</span>
 
-- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-two-eta-34.vercel.app/" class="project-link">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-eight-mocha-69.vercel.app/" class="project-link">My Portfolio</a>
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **swatadru.paul2023@uem.edu.in**
 
-- 📄 Know about my experiences <a href="https://my-portfolio-two-eta-34.vercel.app/#resume" class="resume-link">Click Here</a>
+- 📄 Know about my experiences <a href="https://my-portfolio-eight-mocha-69.vercel.app/#resume" class="resume-link">Click Here</a>
 
 
 <!-- Skills -->
