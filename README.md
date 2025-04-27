@@ -55,7 +55,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **swatadrupaul@gmail.com**
+- 📫 How to reach me **swatadru.paul2023@uem.edu.in**
 
 - 📄 Know about my experiences <a href="https://my-portfolio-two-eta-34.vercel.app/#resume" class="resume-link">Click Here</a>
 
