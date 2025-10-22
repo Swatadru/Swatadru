@@ -4,7 +4,7 @@
 <!-- profile views -->
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
 
-<h1 align="center" class="title">Hi 👋, I'm SWATADRU PAUL</h1>
+<h1 align="center" class="title">Hi 👋, I'M SWATADRU PAUL</h1>
 <h3 align="center" class="subtitle">A passionate Coder from India</h3>
 
 
