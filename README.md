@@ -5,8 +5,11 @@
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
 
 <h1 align="center" class="title">Hi 👋, I'M SWATADRU PAUL</h1>
-<h3 align="center" class="subtitle">A passionate Coder from India</h3>
-
+<!--<h3 align="center" class="subtitle">A passionate Coder from India</h3> -->
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFCC&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Passionate+Coder+from+India;Learning+C,+Java,+Python,+AI+ML;Web+%26+App+Developer" />
+</p>
 
 <h3 align="center" class="connect-title">🔗 Connect with me 🌏</h3>
 
