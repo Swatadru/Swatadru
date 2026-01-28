@@ -167,13 +167,13 @@
 
 ---
 
-<h2 align="center">🎵 Spotify Now Playing</h2>
+<!--<h2 align="center">🎵 Spotify Now Playing</h2>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nukz2bzctcbln4dssr66sn4yli&cover_image=true&theme=default&background_color=000000" />
 </p>
 
----
+--- -->
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
