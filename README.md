@@ -6,12 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0066ff&style=flat" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'M SWATADRU PAUL</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFCC&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;Passionate+Coder+from+India;Learning+Java,+C,+Python,+AI+ML;Web+%26+App+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFCC&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer;Full-Stack+%26+Mobile+App+Developer;AI%2FML+%26+NLP+Researcher;Building+with+React+Native%2C+Node.js%2C+Gemini+AI" />
 </p>
 
 ---
@@ -24,31 +23,26 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="swatadrupaul" height="30" width="40" />
   </a>
-
   <a href="https://linkedin.com/in/swatadru-paul-79037328a" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="swatadru-paul" height="30" width="40" />
   </a>
-
   <a href="https://fb.com/swatadru.paul.7" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="swatadru.paul.7" height="30" width="40" />
   </a>
-
   <a href="https://instagram.com/swatadrupaul" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="swatadrupaul" height="30" width="40" />
   </a>
-
   <a href="https://leetcode.com/swatadru_paul" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="swatadru_paul" height="30" width="40" />
   </a>
-
   <a href="https://auth.geeksforgeeks.org/user/swatadrupaul" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
@@ -56,6 +50,87 @@
   </a>
 </p>
 
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00FFCC&center=true&width=750&lines=🎓+Final+Year+CSE+Student+at+IEM+Kolkata;🚀+Aspiring+Software+Development+Engineer;🤖+Building+AI-powered+apps+%26+NLP+systems;💡+Passionate+about+DSA%2C+System+Design+%26+Open+Source" />
+</p>
+
+- 🎓 Final Year **B.Tech CSE** student at **Institute of Engineering & Management, Kolkata** (CGPA: 8.07)
+- 🚀 Aspiring **Software Development Engineer (SDE)** targeting product-based companies
+- 🤖 Building **AI-powered full-stack & mobile apps** — React Native, Node.js, Gemini AI, PostgreSQL
+- 🔬 **NLP Researcher** — working on AI-driven recipe generation using GPT fine-tuning, LoRA & BRIO
+- 🛠️ Creator of **NEO** — a Jarvis-style AI assistant with OS-level automation & real-time web search
+- 💬 Ask me about **Python, DSA, System Design & AI/ML**
+- 👨‍💻 Portfolio: [Visit Here](https://react-portfolio-vz4c.vercel.app/)
+- 📫 Email: **swatadru.paul6539@gmail.com**
+- 📄 Resume: [Click Here](https://react-portfolio-vz4c.vercel.app/#resume)
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🏥 MediResQ
+**Real-time Emergency Medical Response App**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+
+Cross-platform mobile app connecting patients with doctors in real time. Features JWT auth, Stripe payments, Prisma ORM, and AI-powered triage via Gemini AI.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swatadru/MediResQ)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🍳 The Omniscient Sous-Chef
+**AI-Driven Recipe Generation & NLP Research**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT_FineTuning-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+NLP research system using LoRA fine-tuning & BRIO on RecipeNLG. Features a Food-Chemistry Knowledge Graph, Culturally-Aware Allergen RAG pipeline & adaptive replanning.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swatadru/CookingApp)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 LLM AI Shell Assistant
+**Natural Language to Shell Command Executor**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+
+OS-level AI assistant that converts natural language queries into executable shell commands using Gemini AI. Supports real-time automation, error recovery & safe execution.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swatadru/LLM-AI-Shell-Assistant)
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -70,22 +145,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=swatadru&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
 
 </div>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00FFCC&center=true&width=750&lines=🎓+Student+at+UEM+Kolkata;🚀+Aspiring+Software+Development+Engineer;🌱+Learning:+Java,+C,+Python,+AI/ML;💡+Passionate+about+DSA+and+Development" />
-</p>
-
-- 🎓 Student at **University of Engineering & Management, Kolkata**
-- 🚀 Aspiring **Software Development Engineer (SDE)**
-- 🌱 Currently learning **Java, C, Python, AI/ML, Web & App Development**
-- 💬 Ask me about **Python & Problem Solving**
-- 👨‍💻 Portfolio: [Visit Here](https://my-portfolio-eight-mocha-69.vercel.app/)
-- 📫 Email: **swatadru.paul2023@uem.edu.in**
-- 📄 Resume: [Click Here](https://my-portfolio-eight-mocha-69.vercel.app/#resume)
 
 ---
 
@@ -111,7 +170,6 @@
 
 ---
 
-
 <h2 align="center">⚡ Skills & Tools</h2>
 
 <div align="center">
@@ -120,14 +178,14 @@
 <tr>
 <td align="center" width="260">
 
-### 💻 Languages  
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,java,python,bash,powershell&theme=dark" />
 
 </td>
 <td align="center" width="260">
 
-### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
 
 </td>
 </tr>
@@ -135,14 +193,14 @@
 <tr>
 <td align="center" width="260">
 
-### ⚡ Frameworks  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+### ⚡ Frameworks & Mobile
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark" />
 
 </td>
 <td align="center" width="260">
 
-### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,neo4j&theme=dark" />
 
 </td>
 </tr>
@@ -150,14 +208,18 @@
 <tr>
 <td align="center" width="260">
 
-### ⚙ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,android&theme=dark" />
+### ⚙ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,windows&theme=dark" />
 
 </td>
 <td align="center" width="260">
 
-### 🤖 IoT  
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -166,14 +228,6 @@
 </div>
 
 ---
-
-<!--<h2 align="center">🎵 Spotify Now Playing</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nukz2bzctcbln4dssr66sn4yli&cover_image=true&theme=default&background_color=000000" />
-</p>
-
---- -->
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
