@@ -1,5 +1,5 @@
 <!-- banner image -->
-![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)
+![logo](https://github.com/Swatadru/Swatadru/blob/main/swatadru_github_banner_v2.png)
 
 <!-- profile views -->
 <p align="left">
